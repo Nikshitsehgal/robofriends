@@ -1,6 +1,4 @@
-This is a Robofriends App (Part of my React Learning Cycle)
-
-# Getting Started with Create React App
+# This is a RoboFriends App (Part of my React Learning Cycle)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
